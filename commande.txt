@@ -1,0 +1,5 @@
+../
+cd <path>
+ls
+touch <nom>
+mkdir <nom> -> créer un répertoire
