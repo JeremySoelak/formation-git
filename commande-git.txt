@@ -19,6 +19,13 @@ git switch <nom> -> changer de branche
 
 git merge <branch> - fusionner 1 ou plusieurs branches
 
+git remote add origin <adress> -> ajouter un dépôt distant à notre projet (ex: vers GitHub)
+
+git push -> pousser des modifications vers le dépôt distant (comme commit mais pour le réseau)
+	ex : Trame pour un push : 	- créer/modifier un ficher
+					- ajouter la modification dans l'index (git add)
+					- intégrer les modifications dans l'historique du dépôt local (git commit)
+					- publier sur le dépôt distant (git push)
 
 
 
