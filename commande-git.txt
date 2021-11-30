@@ -1,0 +1,28 @@
+Commandes :
+
+git init -> créer un dépot local / initialiser un projet GiT
+
+git status -> état actuel du projet
+
+git log -> historique (date et nom)
+
+git add <nomdufichier> -> ajout des fichiers à la zone d'attente
+
+git commit -m "message" -> ajout des fichiers de la zone d'attente dans le dépôt local
+git commit --amend -m "message avec correction" -> modifier dernier commit
+
+git branch --list -> lister les branches d'un projet
+git branch <nom> -> créer une nouvelle branche
+
+git switch <nom> -> changer de branche
+
+
+
+
+
+
+
+ls -> lister le contenu d'un répertoire
+
+
+
