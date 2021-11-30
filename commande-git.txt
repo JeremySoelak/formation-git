@@ -27,6 +27,10 @@ git push -> pousser des modifications vers le dépôt distant (comme commit mais
 					- intégrer les modifications dans l'historique du dépôt local (git commit)
 					- publier sur le dépôt distant (git push)
 
+git clone -> cloner un dépôt distant existant
+
+git pull -> récupérer les modifications d'un dépôt distant
+
 
 
 
