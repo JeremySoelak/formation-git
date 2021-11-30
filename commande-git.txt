@@ -13,10 +13,11 @@ git commit --amend -m "message avec correction" -> modifier dernier commit
 
 git branch --list -> lister les branches d'un projet
 git branch <nom> -> créer une nouvelle branche
+git branch -d <branch> -> supprimer une branche
 
 git switch <nom> -> changer de branche
 
-
+git merge <branch> - fusionner 1 ou plusieurs branches
 
 
 
